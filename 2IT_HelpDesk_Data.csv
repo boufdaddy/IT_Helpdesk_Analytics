@@ -1,0 +1,501 @@
+TicketID,CreatedDate,Category,Severity,ShotsTaken,SLA_Hours,Team,ResolvedDate,Status,FirstContactResolved,CSAT
+T100,2024-03-01 23:08:08,Hardware,High,10,48,TeamA,2024-03-03 22:08:08,Resolved,No,4.0
+T080,2024-03-03 20:16:02,Hardware,High,9,48,TeamB,2024-03-05 14:16:02,Resolved,No,4.0
+T008,2024-03-04 11:20:05,Hardware,High,1,48,TeamA,2024-03-05 14:20:05,Resolved,Yes,1.0
+T081,2024-03-04 20:30:11,Security,Low,8,24,TeamA,,Escalated,No,
+T344,2024-03-04 21:37:48,Hardware,High,8,48,TeamC,2024-03-06 03:37:48,Resolved,No,5.0
+T495,2024-03-05 05:11:48,Hardware,High,5,48,TeamB,2024-03-05 19:11:48,Resolved,No,4.0
+T136,2024-03-05 14:45:38,Hardware,Low,8,48,TeamC,2024-03-06 04:45:38,Resolved,No,2.0
+T367,2024-03-05 15:57:55,Network,Low,5,24,TeamA,,Open,No,
+T412,2024-03-05 22:21:44,Software,Medium,7,48,TeamA,2024-03-06 02:21:44,Resolved,No,5.0
+T447,2024-03-05 23:07:10,Network,High,2,24,TeamC,,Escalated,No,
+T102,2024-03-06 01:05:10,Hardware,High,10,48,TeamA,2024-03-07 09:05:10,Resolved,No,1.0
+T206,2024-03-07 19:48:35,Software,Low,10,48,TeamA,2024-03-08 05:48:35,Resolved,No,1.0
+T331,2024-03-08 07:16:48,Hardware,Low,3,24,TeamA,,Escalated,No,
+T288,2024-03-08 13:44:15,Network,High,2,48,TeamB,,Open,No,
+T165,2024-03-09 10:48:20,Software,High,7,48,TeamC,,Escalated,No,
+T213,2024-03-13 06:34:38,Software,Medium,5,48,TeamC,2024-03-14 23:34:38,Resolved,Yes,5.0
+T176,2024-03-13 19:04:16,Software,High,7,24,TeamB,,Escalated,No,
+T111,2024-03-13 19:33:15,Network,High,9,48,TeamA,2024-03-15 08:33:15,Resolved,No,5.0
+T092,2024-03-14 11:58:09,Hardware,Medium,3,48,TeamA,,Escalated,No,
+T169,2024-03-16 03:04:37,Software,Low,4,24,TeamB,2024-03-18 02:04:37,Resolved,No,2.0
+T255,2024-03-17 21:28:20,Software,Low,8,48,TeamC,2024-03-18 12:28:20,Resolved,No,2.0
+T203,2024-03-17 21:36:17,Hardware,High,2,48,TeamC,,Open,No,
+T066,2024-03-18 09:41:52,Software,Low,5,48,TeamB,2024-03-19 14:41:52,Resolved,No,2.0
+T347,2024-03-20 07:40:28,Security,High,5,48,TeamC,,Escalated,No,
+T458,2024-03-21 19:50:03,Software,Low,8,48,TeamA,,Open,No,
+T354,2024-03-22 15:03:46,Software,Medium,4,24,TeamC,,Escalated,No,
+T416,2024-03-23 00:27:24,Security,Low,9,48,TeamA,,Open,No,
+T088,2024-03-24 21:02:38,Network,Low,5,48,TeamB,2024-03-25 02:02:38,Resolved,No,1.0
+T091,2024-03-25 13:25:07,Security,Low,1,48,TeamB,,Escalated,No,
+T362,2024-03-25 20:16:31,Network,High,8,48,TeamB,,Open,No,
+T236,2024-03-26 06:29:28,Hardware,Medium,3,48,TeamC,2024-03-26 22:29:28,Resolved,No,4.0
+T193,2024-03-26 14:04:09,Network,Low,10,24,TeamB,2024-03-27 14:04:09,Resolved,Yes,2.0
+T145,2024-03-26 15:32:36,Security,High,1,24,TeamB,2024-03-26 20:32:36,Resolved,No,5.0
+T194,2024-03-26 17:14:33,Software,High,7,48,TeamB,2024-03-27 07:14:33,Resolved,No,3.0
+T485,2024-03-27 04:45:01,Network,Medium,4,48,TeamC,2024-03-27 19:45:01,Resolved,No,2.0
+T290,2024-03-28 01:15:51,Software,High,2,24,TeamB,2024-03-28 07:15:51,Resolved,Yes,5.0
+T372,2024-03-29 02:02:14,Hardware,Medium,2,24,TeamB,,Escalated,No,
+T251,2024-03-29 12:52:13,Security,Medium,5,48,TeamB,2024-03-30 15:52:13,Resolved,No,2.0
+T006,2024-03-29 18:21:50,Software,High,4,48,TeamC,,Escalated,No,
+T180,2024-03-31 03:45:11,Software,Medium,10,48,TeamA,2024-03-31 14:45:11,Resolved,No,5.0
+T054,2024-03-31 11:01:28,Security,Medium,2,48,TeamC,2024-04-02 03:01:28,Resolved,No,1.0
+T299,2024-04-03 00:48:54,Hardware,Low,7,24,TeamA,2024-04-04 07:48:54,Resolved,No,3.0
+T024,2024-04-03 04:10:43,Hardware,Medium,7,48,TeamC,2024-04-04 08:10:43,Resolved,No,4.0
+T279,2024-04-03 16:21:24,Software,Medium,4,24,TeamB,,Open,No,
+T473,2024-04-07 03:26:36,Network,High,1,48,TeamC,,Escalated,No,
+T016,2024-04-07 06:17:47,Hardware,High,3,24,TeamA,2024-04-07 07:17:47,Resolved,No,5.0
+T128,2024-04-08 06:37:41,Software,Low,7,24,TeamB,2024-04-09 08:37:41,Resolved,Yes,4.0
+T122,2024-04-09 07:22:29,Network,Low,1,24,TeamA,,Open,No,
+T321,2024-04-10 09:36:12,Security,Low,1,48,TeamC,,Open,No,
+T134,2024-04-11 10:03:24,Hardware,High,8,48,TeamA,2024-04-11 21:03:24,Resolved,No,3.0
+T478,2024-04-15 04:18:57,Network,Medium,10,48,TeamB,2024-04-15 08:18:57,Resolved,No,5.0
+T086,2024-04-15 12:17:16,Security,Medium,3,48,TeamC,2024-04-17 00:17:16,Resolved,No,4.0
+T337,2024-04-15 15:53:34,Security,High,4,48,TeamC,2024-04-16 23:53:34,Resolved,Yes,5.0
+T435,2024-04-16 02:38:20,Hardware,Low,2,24,TeamC,2024-04-17 15:38:20,Resolved,No,2.0
+T064,2024-04-16 04:39:53,Software,High,6,24,TeamC,2024-04-17 05:39:53,Resolved,Yes,2.0
+T375,2024-04-16 08:56:21,Hardware,High,2,48,TeamC,,Open,No,
+T026,2024-04-18 08:32:29,Software,High,8,24,TeamB,2024-04-18 23:32:29,Resolved,Yes,2.0
+T141,2024-04-18 17:45:45,Security,High,1,24,TeamA,,Escalated,No,
+T223,2024-04-20 21:25:52,Hardware,High,6,24,TeamC,,Escalated,No,
+T481,2024-04-22 16:34:41,Network,Low,9,48,TeamA,2024-04-24 16:34:41,Resolved,Yes,1.0
+T163,2024-04-23 03:16:14,Network,High,5,48,TeamA,2024-04-23 17:16:14,Resolved,No,3.0
+T388,2024-04-23 08:15:15,Network,Medium,3,24,TeamC,,Escalated,No,
+T217,2024-04-24 04:27:48,Hardware,High,3,24,TeamB,2024-04-24 15:27:48,Resolved,Yes,2.0
+T116,2024-04-25 03:19:05,Security,Low,9,48,TeamB,2024-04-26 18:19:05,Resolved,Yes,1.0
+T448,2024-04-27 04:32:40,Network,High,8,24,TeamA,2024-04-28 18:32:40,Resolved,Yes,5.0
+T065,2024-04-27 06:03:19,Security,High,1,48,TeamB,2024-04-28 08:03:19,Resolved,Yes,2.0
+T409,2024-04-27 14:48:13,Hardware,High,4,24,TeamB,2024-04-27 23:48:13,Resolved,No,2.0
+T280,2024-04-27 15:19:42,Hardware,Medium,5,48,TeamB,,Escalated,No,
+T233,2024-04-27 15:48:15,Hardware,Medium,10,48,TeamC,,Escalated,No,
+T418,2024-04-28 05:20:52,Software,Medium,5,48,TeamB,2024-04-29 16:20:52,Resolved,No,3.0
+T459,2024-04-29 21:35:28,Hardware,Low,10,48,TeamA,2024-05-01 19:35:28,Resolved,Yes,5.0
+T119,2024-05-01 08:19:56,Software,Low,4,24,TeamB,,Escalated,No,
+T420,2024-05-02 10:21:14,Network,High,3,48,TeamC,2024-05-04 07:21:14,Resolved,No,1.0
+T215,2024-05-03 15:39:03,Software,Medium,6,48,TeamB,,Open,No,
+T059,2024-05-03 22:42:47,Network,Medium,1,24,TeamB,,Escalated,No,
+T118,2024-05-03 23:01:23,Hardware,Medium,9,24,TeamA,2024-05-05 04:01:23,Resolved,Yes,2.0
+T316,2024-05-04 05:52:37,Software,High,4,48,TeamA,2024-05-06 02:52:37,Resolved,No,2.0
+T328,2024-05-06 01:10:15,Software,High,5,24,TeamA,2024-05-07 17:10:15,Resolved,Yes,5.0
+T149,2024-05-06 01:13:31,Hardware,Medium,7,48,TeamB,2024-05-06 21:13:31,Resolved,No,3.0
+T395,2024-05-06 10:40:39,Software,Medium,1,48,TeamC,,Escalated,No,
+T003,2024-05-06 16:04:28,Network,Medium,3,24,TeamA,2024-05-07 23:04:28,Resolved,No,2.0
+T224,2024-05-06 19:18:48,Software,Low,8,48,TeamA,2024-05-08 09:18:48,Resolved,No,2.0
+T173,2024-05-07 22:46:22,Hardware,Low,1,24,TeamC,2024-05-08 08:46:22,Resolved,Yes,5.0
+T177,2024-05-08 06:58:47,Network,High,10,48,TeamC,,Escalated,No,
+T277,2024-05-08 14:15:47,Security,Low,2,48,TeamC,2024-05-09 12:15:47,Resolved,No,1.0
+T355,2024-05-09 02:50:24,Software,High,10,48,TeamA,2024-05-11 00:50:24,Resolved,No,4.0
+T172,2024-05-11 02:18:50,Software,Low,4,24,TeamB,2024-05-11 16:18:50,Resolved,No,5.0
+T098,2024-05-11 07:16:41,Network,High,2,24,TeamC,,Open,No,
+T101,2024-05-11 12:56:25,Hardware,Low,7,48,TeamC,2024-05-12 19:56:25,Resolved,No,3.0
+T234,2024-05-11 20:07:24,Hardware,High,5,48,TeamA,,Open,No,
+T011,2024-05-13 06:44:52,Security,Medium,8,24,TeamA,,Escalated,No,
+T336,2024-05-13 08:25:55,Security,Medium,1,24,TeamC,,Escalated,No,
+T472,2024-05-13 16:45:57,Security,High,2,48,TeamB,2024-05-15 02:45:57,Resolved,No,2.0
+T090,2024-05-14 02:21:03,Network,Low,4,48,TeamB,2024-05-14 13:21:03,Resolved,No,1.0
+T272,2024-05-15 03:41:04,Network,Low,3,48,TeamB,,Open,No,
+T061,2024-05-15 11:42:21,Software,Low,6,24,TeamB,,Escalated,No,
+T071,2024-05-15 23:27:19,Hardware,Medium,3,48,TeamC,,Escalated,No,
+T413,2024-05-16 08:52:04,Security,Low,6,48,TeamA,2024-05-18 01:52:04,Resolved,No,3.0
+T046,2024-05-17 05:03:34,Software,High,5,24,TeamC,2024-05-17 21:03:34,Resolved,No,4.0
+T138,2024-05-17 21:40:43,Security,High,10,24,TeamB,,Escalated,No,
+T405,2024-05-18 13:36:03,Hardware,Low,3,24,TeamC,,Open,No,
+T029,2024-05-18 18:58:01,Security,High,3,48,TeamC,,Escalated,No,
+T171,2024-05-19 20:22:09,Hardware,Low,10,48,TeamB,2024-05-20 10:22:09,Resolved,No,4.0
+T012,2024-05-20 14:59:17,Software,High,1,48,TeamC,2024-05-22 07:59:17,Resolved,Yes,5.0
+T039,2024-05-20 23:00:44,Network,Low,7,24,TeamB,,Open,No,
+T114,2024-05-21 17:36:50,Network,Medium,3,48,TeamA,2024-05-22 19:36:50,Resolved,No,4.0
+T325,2024-05-21 21:48:10,Network,Low,4,24,TeamB,2024-05-22 23:48:10,Resolved,No,4.0
+T345,2024-05-22 16:36:56,Security,High,7,48,TeamB,2024-05-24 16:36:56,Resolved,Yes,2.0
+T466,2024-05-22 20:57:41,Network,Medium,10,24,TeamC,2024-05-23 06:57:41,Resolved,Yes,3.0
+T407,2024-05-23 00:24:48,Software,Medium,3,48,TeamB,2024-05-23 14:24:48,Resolved,Yes,4.0
+T397,2024-05-23 03:02:14,Software,High,5,24,TeamA,2024-05-24 14:02:14,Resolved,No,3.0
+T156,2024-05-23 08:40:02,Software,Medium,5,48,TeamC,,Open,No,
+T105,2024-05-24 13:01:32,Hardware,Low,6,48,TeamB,2024-05-26 01:01:32,Resolved,Yes,3.0
+T159,2024-05-24 14:31:52,Hardware,High,9,48,TeamB,,Escalated,No,
+T197,2024-05-25 10:19:10,Software,Low,1,48,TeamB,2024-05-26 23:19:10,Resolved,No,4.0
+T248,2024-05-26 00:55:06,Security,High,1,48,TeamC,,Open,No,
+T256,2024-05-26 12:57:32,Software,Medium,3,48,TeamB,2024-05-26 22:57:32,Resolved,Yes,5.0
+T240,2024-05-27 09:01:00,Software,Medium,6,48,TeamC,,Open,No,
+T021,2024-05-27 22:59:05,Software,Low,1,24,TeamC,,Escalated,No,
+T022,2024-05-28 22:09:08,Security,High,5,48,TeamA,,Open,No,
+T146,2024-06-01 16:54:12,Network,High,10,24,TeamA,2024-06-03 07:54:12,Resolved,No,5.0
+T153,2024-06-02 21:20:38,Security,Low,9,48,TeamA,2024-06-04 17:20:38,Resolved,No,2.0
+T220,2024-06-03 01:16:39,Hardware,Low,5,48,TeamB,,Open,No,
+T281,2024-06-03 18:08:00,Software,Low,10,48,TeamB,,Escalated,No,
+T131,2024-06-05 08:01:14,Security,Low,3,48,TeamC,2024-06-06 22:01:14,Resolved,No,2.0
+T348,2024-06-05 21:40:59,Hardware,High,2,48,TeamB,2024-06-07 07:40:59,Resolved,No,5.0
+T226,2024-06-06 05:05:27,Hardware,High,1,48,TeamB,,Open,No,
+T040,2024-06-06 06:33:03,Security,Medium,5,48,TeamA,2024-06-07 09:33:03,Resolved,Yes,2.0
+T190,2024-06-06 11:28:23,Software,Low,5,48,TeamC,2024-06-07 16:28:23,Resolved,No,2.0
+T304,2024-06-08 03:42:55,Security,High,10,48,TeamB,,Escalated,No,
+T417,2024-06-08 19:33:27,Hardware,High,10,24,TeamB,2024-06-10 04:33:27,Resolved,Yes,5.0
+T423,2024-06-09 18:03:30,Hardware,Low,3,48,TeamB,2024-06-10 02:03:30,Resolved,No,2.0
+T181,2024-06-12 00:35:41,Network,Medium,3,48,TeamB,,Escalated,No,
+T069,2024-06-12 02:05:25,Software,Medium,1,48,TeamB,,Open,No,
+T403,2024-06-12 05:11:51,Hardware,Medium,2,24,TeamC,2024-06-12 22:11:51,Resolved,No,2.0
+T178,2024-06-12 16:16:20,Hardware,Medium,5,48,TeamB,,Open,No,
+T449,2024-06-12 17:39:22,Software,Medium,6,48,TeamB,,Open,No,
+T120,2024-06-13 05:41:55,Network,Low,4,24,TeamA,,Escalated,No,
+T057,2024-06-13 15:21:45,Software,Medium,4,48,TeamC,,Open,No,
+T399,2024-06-13 21:30:49,Software,High,1,48,TeamB,2024-06-14 06:30:49,Resolved,No,1.0
+T133,2024-06-14 09:20:20,Security,Medium,8,48,TeamB,,Open,No,
+T099,2024-06-14 19:17:17,Network,Low,4,48,TeamB,2024-06-14 22:17:17,Resolved,No,5.0
+T067,2024-06-14 20:59:50,Network,Medium,4,24,TeamC,2024-06-16 17:59:50,Resolved,No,2.0
+T076,2024-06-16 01:45:50,Network,Medium,10,48,TeamB,,Escalated,No,
+T392,2024-06-16 02:40:09,Network,High,7,24,TeamB,2024-06-17 04:40:09,Resolved,No,5.0
+T333,2024-06-17 20:37:17,Software,Low,10,48,TeamA,2024-06-18 16:37:17,Resolved,No,5.0
+T490,2024-06-18 09:40:18,Hardware,Low,2,24,TeamB,2024-06-19 03:40:18,Resolved,No,3.0
+T430,2024-06-19 12:02:55,Network,Low,5,48,TeamC,2024-06-21 07:02:55,Resolved,No,2.0
+T386,2024-06-19 20:54:41,Security,Low,4,48,TeamA,2024-06-20 05:54:41,Resolved,No,2.0
+T094,2024-06-20 22:04:09,Network,Medium,7,24,TeamA,2024-06-22 12:04:09,Resolved,Yes,3.0
+T387,2024-06-21 21:20:49,Software,Low,10,48,TeamA,2024-06-22 19:20:49,Resolved,Yes,3.0
+T225,2024-06-22 01:17:28,Hardware,Low,4,48,TeamA,,Open,No,
+T264,2024-06-23 01:48:12,Hardware,High,9,48,TeamB,2024-06-24 14:48:12,Resolved,Yes,1.0
+T001,2024-06-25 10:01:56,Hardware,Medium,6,48,TeamB,2024-06-27 01:01:56,Resolved,No,1.0
+T017,2024-06-26 02:32:52,Security,Low,4,24,TeamB,2024-06-27 02:32:52,Resolved,No,5.0
+T184,2024-06-27 08:00:58,Software,Low,4,24,TeamA,2024-06-28 02:00:58,Resolved,Yes,2.0
+T340,2024-06-27 09:29:06,Software,Low,3,48,TeamA,2024-06-29 05:29:06,Resolved,Yes,2.0
+T271,2024-06-27 09:36:00,Hardware,Medium,10,24,TeamB,2024-06-28 01:36:00,Resolved,No,5.0
+T155,2024-06-27 14:22:53,Hardware,Medium,8,48,TeamA,2024-06-28 03:22:53,Resolved,No,4.0
+T154,2024-06-27 18:24:53,Network,Low,1,48,TeamB,2024-06-28 22:24:53,Resolved,No,3.0
+T352,2024-06-28 00:23:42,Security,Low,4,24,TeamA,2024-06-29 11:23:42,Resolved,Yes,1.0
+T283,2024-06-28 19:17:30,Hardware,Medium,8,48,TeamA,,Escalated,No,
+T164,2024-06-29 07:18:51,Software,Medium,9,48,TeamA,2024-06-29 12:18:51,Resolved,No,5.0
+T291,2024-06-30 00:53:34,Hardware,Low,9,24,TeamC,,Open,No,
+T303,2024-06-30 07:27:06,Network,Medium,3,48,TeamB,2024-07-02 05:27:06,Resolved,No,2.0
+T425,2024-06-30 10:24:06,Software,Low,9,48,TeamB,2024-07-02 08:24:06,Resolved,No,2.0
+T433,2024-06-30 21:50:11,Software,Low,3,48,TeamA,2024-07-01 17:50:11,Resolved,Yes,4.0
+T474,2024-07-01 06:30:30,Network,Medium,10,48,TeamB,2024-07-01 19:30:30,Resolved,No,1.0
+T055,2024-07-01 20:15:47,Network,Medium,1,24,TeamC,2024-07-02 01:15:47,Resolved,No,2.0
+T496,2024-07-02 03:04:23,Security,High,1,24,TeamA,,Escalated,No,
+T073,2024-07-02 22:11:23,Software,High,3,48,TeamB,2024-07-04 19:11:23,Resolved,Yes,5.0
+T237,2024-07-04 17:32:33,Hardware,Medium,6,48,TeamB,,Escalated,No,
+T152,2024-07-04 22:41:17,Software,Low,2,24,TeamB,2024-07-06 16:41:17,Resolved,Yes,1.0
+T346,2024-07-05 06:41:56,Network,Low,9,48,TeamB,,Open,No,
+T013,2024-07-06 17:44:55,Security,Low,8,48,TeamC,,Open,No,
+T312,2024-07-08 21:58:49,Security,Medium,4,24,TeamB,,Open,No,
+T110,2024-07-09 17:37:37,Hardware,High,3,48,TeamA,2024-07-10 00:37:37,Resolved,Yes,3.0
+T260,2024-07-11 01:31:42,Software,Medium,3,48,TeamC,2024-07-13 01:31:42,Resolved,No,5.0
+T238,2024-07-11 03:55:29,Security,Medium,1,24,TeamC,,Escalated,No,
+T106,2024-07-11 09:14:33,Software,Low,4,24,TeamC,,Escalated,No,
+T406,2024-07-11 22:18:10,Network,Medium,4,48,TeamB,,Open,No,
+T198,2024-07-13 00:47:16,Software,High,8,48,TeamB,,Escalated,No,
+T456,2024-07-13 02:08:11,Hardware,Low,3,24,TeamA,,Escalated,No,
+T241,2024-07-14 20:17:14,Software,Low,5,24,TeamA,,Open,No,
+T330,2024-07-16 11:03:07,Security,Medium,2,24,TeamA,,Escalated,No,
+T109,2024-07-17 12:33:39,Network,Low,6,48,TeamA,,Escalated,No,
+T494,2024-07-17 16:54:25,Network,Low,5,48,TeamA,,Escalated,No,
+T212,2024-07-19 15:33:47,Hardware,Medium,4,48,TeamC,2024-07-20 23:33:47,Resolved,No,4.0
+T200,2024-07-20 16:41:08,Hardware,Medium,1,24,TeamB,,Escalated,No,
+T204,2024-07-21 09:01:32,Network,Medium,9,48,TeamC,2024-07-22 15:01:32,Resolved,No,5.0
+T439,2024-07-23 00:43:05,Network,High,8,48,TeamB,2024-07-23 21:43:05,Resolved,No,5.0
+T464,2024-07-27 00:34:04,Security,Medium,6,24,TeamA,,Escalated,No,
+T087,2024-07-27 03:05:22,Network,Low,4,48,TeamA,2024-07-28 06:05:22,Resolved,Yes,1.0
+T457,2024-07-27 07:25:36,Software,Low,9,24,TeamA,2024-07-29 02:25:36,Resolved,No,5.0
+T414,2024-07-27 08:35:11,Network,High,5,24,TeamB,,Escalated,No,
+T132,2024-07-27 15:24:17,Hardware,Low,5,24,TeamC,2024-07-28 08:24:17,Resolved,No,4.0
+T351,2024-07-27 22:51:31,Network,Medium,4,48,TeamB,2024-07-29 06:51:31,Resolved,No,1.0
+T343,2024-07-28 01:02:45,Hardware,Low,3,48,TeamC,,Open,No,
+T125,2024-07-28 03:22:46,Hardware,Low,2,48,TeamA,2024-07-29 05:22:46,Resolved,Yes,3.0
+T113,2024-07-28 04:55:55,Hardware,Low,4,24,TeamA,,Open,No,
+T434,2024-07-28 12:27:30,Hardware,Low,6,48,TeamA,,Escalated,No,
+T007,2024-07-29 02:42:37,Network,Low,9,24,TeamB,2024-07-29 19:42:37,Resolved,No,3.0
+T074,2024-07-29 20:51:23,Hardware,Medium,10,48,TeamB,2024-07-31 11:51:23,Resolved,No,4.0
+T144,2024-07-29 23:57:27,Security,High,7,48,TeamB,2024-07-31 11:57:27,Resolved,Yes,1.0
+T231,2024-07-30 02:56:50,Network,Medium,3,48,TeamB,2024-07-31 00:56:50,Resolved,No,2.0
+T359,2024-07-30 18:57:32,Security,High,9,48,TeamA,2024-08-01 03:57:32,Resolved,No,5.0
+T429,2024-08-01 03:31:31,Hardware,Medium,8,48,TeamA,2024-08-02 04:31:31,Resolved,No,3.0
+T491,2024-08-02 03:02:11,Hardware,Low,1,48,TeamC,2024-08-02 06:02:11,Resolved,No,4.0
+T162,2024-08-02 04:35:14,Hardware,High,6,48,TeamC,2024-08-03 03:35:14,Resolved,No,3.0
+T044,2024-08-03 22:35:59,Network,Medium,9,24,TeamA,2024-08-04 11:35:59,Resolved,Yes,5.0
+T415,2024-08-04 10:02:50,Security,High,6,48,TeamA,2024-08-04 20:02:50,Resolved,Yes,3.0
+T002,2024-08-04 20:10:02,Network,Low,3,24,TeamA,2024-08-06 14:10:02,Resolved,No,5.0
+T477,2024-08-05 02:59:59,Network,High,8,24,TeamC,2024-08-06 13:59:59,Resolved,No,4.0
+T038,2024-08-05 04:49:58,Security,Medium,6,48,TeamB,2024-08-05 07:49:58,Resolved,Yes,5.0
+T047,2024-08-05 06:29:10,Security,Low,4,48,TeamB,2024-08-06 04:29:10,Resolved,No,2.0
+T239,2024-08-06 23:51:47,Network,Low,6,48,TeamA,2024-08-08 14:51:47,Resolved,No,3.0
+T253,2024-08-08 19:07:46,Network,Low,6,48,TeamB,,Open,No,
+T380,2024-08-09 14:15:51,Software,Low,7,24,TeamB,2024-08-09 23:15:51,Resolved,Yes,5.0
+T048,2024-08-10 14:42:06,Software,Low,6,48,TeamC,2024-08-11 17:42:06,Resolved,No,3.0
+T357,2024-08-11 23:15:28,Software,Medium,3,24,TeamB,2024-08-12 02:15:28,Resolved,No,2.0
+T421,2024-08-12 00:47:49,Security,Medium,10,48,TeamB,2024-08-13 11:47:49,Resolved,Yes,3.0
+T339,2024-08-14 00:18:56,Network,Medium,7,48,TeamC,2024-08-14 15:18:56,Resolved,No,1.0
+T004,2024-08-15 02:47:56,Software,Low,9,48,TeamB,2024-08-15 09:47:56,Resolved,No,4.0
+T437,2024-08-16 12:59:24,Hardware,Medium,3,24,TeamB,2024-08-18 10:59:24,Resolved,Yes,1.0
+T019,2024-08-16 14:33:41,Network,Medium,1,24,TeamA,2024-08-18 04:33:41,Resolved,No,3.0
+T378,2024-08-16 16:19:27,Security,Low,9,48,TeamA,2024-08-16 19:19:27,Resolved,Yes,5.0
+T158,2024-08-17 01:39:54,Security,Medium,6,48,TeamB,2024-08-18 14:39:54,Resolved,No,2.0
+T262,2024-08-17 02:31:11,Network,High,6,24,TeamC,,Open,No,
+T488,2024-08-17 06:39:26,Hardware,High,10,48,TeamA,,Escalated,No,
+T232,2024-08-17 12:33:36,Software,Low,2,48,TeamA,,Open,No,
+T050,2024-08-17 15:47:35,Hardware,Low,3,48,TeamC,2024-08-19 05:47:35,Resolved,No,4.0
+T182,2024-08-17 22:36:16,Hardware,Low,1,48,TeamC,2024-08-18 03:36:16,Resolved,No,5.0
+T216,2024-08-17 23:21:58,Software,High,6,24,TeamA,2024-08-19 14:21:58,Resolved,No,5.0
+T103,2024-08-17 23:35:58,Hardware,Low,4,48,TeamC,2024-08-19 07:35:58,Resolved,No,2.0
+T218,2024-08-18 09:04:38,Software,Medium,7,24,TeamC,,Open,No,
+T129,2024-08-19 02:26:37,Network,Low,7,48,TeamA,2024-08-19 08:26:37,Resolved,Yes,2.0
+T160,2024-08-20 04:24:33,Network,Medium,4,24,TeamA,2024-08-21 02:24:33,Resolved,Yes,4.0
+T358,2024-08-22 16:34:56,Security,Low,9,48,TeamA,2024-08-22 21:34:56,Resolved,Yes,1.0
+T150,2024-08-23 08:39:39,Security,Low,9,48,TeamC,,Open,No,
+T356,2024-08-23 22:39:00,Hardware,High,8,48,TeamB,2024-08-25 06:39:00,Resolved,No,1.0
+T379,2024-08-25 06:42:14,Network,High,1,48,TeamB,,Escalated,No,
+T060,2024-08-26 00:36:34,Software,High,8,48,TeamA,2024-08-26 07:36:34,Resolved,No,3.0
+T497,2024-08-26 20:14:01,Hardware,Medium,6,48,TeamC,,Open,No,
+T313,2024-08-26 21:42:10,Hardware,High,9,48,TeamA,2024-08-27 05:42:10,Resolved,Yes,4.0
+T207,2024-08-27 01:21:01,Hardware,Medium,5,48,TeamC,2024-08-27 11:21:01,Resolved,No,2.0
+T020,2024-08-27 10:14:05,Network,Medium,1,24,TeamC,2024-08-29 04:14:05,Resolved,No,2.0
+T243,2024-08-27 14:05:49,Hardware,High,4,48,TeamC,2024-08-29 14:05:49,Resolved,Yes,3.0
+T033,2024-08-28 05:18:40,Network,Medium,4,48,TeamB,2024-08-28 20:18:40,Resolved,No,2.0
+T276,2024-08-28 08:14:40,Software,Low,8,48,TeamA,2024-08-29 17:14:40,Resolved,Yes,1.0
+T410,2024-08-30 17:01:33,Software,Medium,3,48,TeamA,,Escalated,No,
+T342,2024-08-31 00:37:03,Security,High,7,24,TeamC,2024-08-31 06:37:03,Resolved,No,1.0
+T324,2024-09-01 02:32:49,Security,High,5,48,TeamC,,Open,No,
+T436,2024-09-01 04:40:47,Software,Medium,1,24,TeamA,,Open,No,
+T452,2024-09-01 13:46:09,Network,High,7,24,TeamA,,Open,No,
+T385,2024-09-02 19:10:02,Network,High,7,48,TeamB,,Open,No,
+T498,2024-09-04 09:30:57,Software,Medium,1,48,TeamA,,Escalated,No,
+T139,2024-09-05 21:09:47,Software,Medium,3,24,TeamB,2024-09-06 00:09:47,Resolved,No,5.0
+T401,2024-09-05 21:22:03,Network,High,2,24,TeamC,2024-09-06 20:22:03,Resolved,No,3.0
+T049,2024-09-08 18:51:41,Network,High,5,48,TeamA,,Escalated,No,
+T419,2024-09-09 08:52:45,Network,High,3,48,TeamA,2024-09-10 14:52:45,Resolved,No,5.0
+T219,2024-09-09 21:36:18,Network,Low,1,48,TeamC,2024-09-10 17:36:18,Resolved,No,4.0
+T244,2024-09-10 02:52:33,Hardware,Medium,2,48,TeamB,,Open,No,
+T083,2024-09-12 21:05:19,Hardware,Medium,6,48,TeamB,2024-09-13 00:05:19,Resolved,No,5.0
+T018,2024-09-14 06:22:40,Network,Low,6,48,TeamA,2024-09-15 16:22:40,Resolved,Yes,3.0
+T493,2024-09-14 20:46:21,Hardware,Low,10,48,TeamB,2024-09-16 11:46:21,Resolved,No,5.0
+T334,2024-09-14 21:12:14,Software,Low,2,48,TeamC,,Escalated,No,
+T015,2024-09-15 07:30:45,Hardware,Low,4,48,TeamA,2024-09-16 03:30:45,Resolved,Yes,5.0
+T383,2024-09-15 08:07:47,Hardware,Low,1,48,TeamA,2024-09-16 05:07:47,Resolved,Yes,5.0
+T052,2024-09-17 07:26:54,Software,Medium,6,48,TeamA,2024-09-17 08:26:54,Resolved,Yes,2.0
+T031,2024-09-17 10:44:37,Network,High,10,48,TeamB,2024-09-17 15:44:37,Resolved,Yes,4.0
+T308,2024-09-17 14:44:01,Security,Low,10,24,TeamA,2024-09-17 16:44:01,Resolved,No,5.0
+T363,2024-09-17 20:19:04,Hardware,Low,6,48,TeamA,2024-09-19 01:19:04,Resolved,No,4.0
+T479,2024-09-18 16:55:58,Network,Medium,4,24,TeamC,2024-09-20 15:55:58,Resolved,No,3.0
+T285,2024-09-20 01:31:01,Security,Medium,2,48,TeamC,,Open,No,
+T307,2024-09-20 05:00:33,Hardware,Medium,2,24,TeamB,2024-09-20 22:00:33,Resolved,No,3.0
+T373,2024-09-20 10:14:04,Network,High,2,24,TeamC,,Open,No,
+T453,2024-09-20 17:06:10,Hardware,High,2,48,TeamA,2024-09-21 11:06:10,Resolved,No,3.0
+T093,2024-09-20 19:38:39,Network,High,10,48,TeamC,,Open,No,
+T338,2024-09-21 12:09:25,Network,Medium,5,48,TeamB,2024-09-21 15:09:25,Resolved,No,2.0
+T302,2024-09-23 22:44:10,Software,Low,6,48,TeamC,2024-09-25 05:44:10,Resolved,No,2.0
+T341,2024-09-23 23:03:51,Software,Medium,4,48,TeamC,,Escalated,No,
+T282,2024-09-24 07:37:45,Hardware,Medium,4,24,TeamB,,Escalated,No,
+T030,2024-09-24 15:20:10,Hardware,Low,5,24,TeamC,,Open,No,
+T148,2024-09-26 13:31:25,Security,Medium,7,24,TeamB,2024-09-26 19:31:25,Resolved,No,5.0
+T051,2024-09-27 02:41:17,Network,Low,3,48,TeamB,,Escalated,No,
+T297,2024-09-27 06:43:55,Hardware,High,8,24,TeamB,2024-09-27 21:43:55,Resolved,No,2.0
+T005,2024-09-27 14:28:12,Security,Medium,2,48,TeamB,,Open,No,
+T350,2024-09-27 20:19:15,Network,Low,7,48,TeamA,2024-09-29 10:19:15,Resolved,No,4.0
+T319,2024-09-28 03:09:45,Software,High,6,48,TeamB,2024-09-29 14:09:45,Resolved,No,3.0
+T278,2024-09-29 08:26:51,Security,Low,9,48,TeamC,2024-09-29 11:26:51,Resolved,No,2.0
+T089,2024-09-29 14:03:20,Network,Medium,5,48,TeamC,2024-09-30 12:03:20,Resolved,Yes,5.0
+T104,2024-09-30 13:39:34,Network,Low,3,48,TeamB,2024-10-01 05:39:34,Resolved,No,4.0
+T365,2024-10-03 07:56:00,Network,High,5,48,TeamB,2024-10-04 04:56:00,Resolved,Yes,2.0
+T349,2024-10-04 16:21:19,Hardware,Medium,7,48,TeamB,2024-10-06 11:21:19,Resolved,No,4.0
+T301,2024-10-04 18:16:46,Network,Low,10,48,TeamB,,Escalated,No,
+T053,2024-10-05 07:00:10,Security,Low,1,48,TeamC,2024-10-07 02:00:10,Resolved,No,1.0
+T199,2024-10-07 18:20:41,Network,High,3,48,TeamC,2024-10-07 23:20:41,Resolved,Yes,2.0
+T298,2024-10-07 20:16:42,Security,Medium,2,48,TeamC,2024-10-08 07:16:42,Resolved,Yes,1.0
+T320,2024-10-07 20:53:53,Hardware,Low,8,48,TeamB,,Escalated,No,
+T191,2024-10-10 15:39:43,Hardware,Medium,10,48,TeamB,2024-10-11 15:39:43,Resolved,No,5.0
+T023,2024-10-11 07:54:58,Hardware,High,10,24,TeamA,2024-10-12 01:54:58,Resolved,Yes,3.0
+T446,2024-10-12 14:52:57,Hardware,High,5,48,TeamA,2024-10-13 14:52:57,Resolved,Yes,5.0
+T186,2024-10-12 23:27:20,Software,High,3,24,TeamA,,Escalated,No,
+T475,2024-10-14 03:38:20,Software,High,7,48,TeamB,2024-10-14 09:38:20,Resolved,No,1.0
+T168,2024-10-14 19:40:16,Hardware,Low,5,48,TeamA,2024-10-16 06:40:16,Resolved,No,1.0
+T112,2024-10-15 00:20:31,Software,Medium,5,48,TeamA,,Escalated,No,
+T293,2024-10-15 17:53:44,Security,High,6,48,TeamC,,Open,No,
+T222,2024-10-17 01:00:16,Network,High,6,24,TeamA,2024-10-18 19:00:16,Resolved,No,1.0
+T202,2024-10-20 03:37:00,Network,High,8,48,TeamA,,Open,No,
+T444,2024-10-20 16:15:16,Hardware,Low,5,48,TeamB,2024-10-20 17:15:16,Resolved,No,1.0
+T370,2024-10-22 13:42:43,Software,High,6,48,TeamA,,Open,No,
+T028,2024-10-23 16:15:57,Hardware,High,3,48,TeamB,2024-10-24 22:15:57,Resolved,Yes,1.0
+T374,2024-10-23 20:57:30,Software,Low,1,48,TeamC,,Open,No,
+T389,2024-10-24 05:55:37,Network,High,4,48,TeamC,,Escalated,No,
+T167,2024-10-24 11:41:21,Security,Medium,8,24,TeamC,2024-10-25 07:41:21,Resolved,No,1.0
+T082,2024-10-24 15:08:30,Network,Medium,6,48,TeamC,,Escalated,No,
+T147,2024-10-24 18:21:12,Hardware,High,9,48,TeamB,,Open,No,
+T266,2024-10-25 04:05:16,Security,Low,10,48,TeamB,2024-10-25 16:05:16,Resolved,No,3.0
+T045,2024-10-25 10:46:13,Software,Medium,7,48,TeamB,,Open,No,
+T286,2024-10-27 02:22:48,Hardware,Low,8,48,TeamB,2024-10-27 08:22:48,Resolved,No,1.0
+T032,2024-10-27 19:38:50,Network,Medium,1,48,TeamC,2024-10-27 20:38:50,Resolved,No,3.0
+T487,2024-10-27 21:17:30,Security,Low,6,48,TeamC,2024-10-28 22:17:30,Resolved,No,1.0
+T123,2024-10-28 14:00:28,Security,Medium,9,48,TeamB,2024-10-28 23:00:28,Resolved,Yes,3.0
+T135,2024-10-29 13:06:58,Network,High,2,48,TeamB,2024-10-31 06:06:58,Resolved,No,1.0
+T309,2024-10-29 21:25:07,Hardware,High,7,48,TeamA,,Escalated,No,
+T235,2024-10-30 21:59:38,Security,Medium,2,48,TeamC,2024-11-01 02:59:38,Resolved,No,4.0
+T274,2024-10-31 06:53:22,Hardware,Low,10,48,TeamC,,Open,No,
+T025,2024-10-31 07:55:41,Software,Medium,3,48,TeamC,2024-11-02 05:55:41,Resolved,No,5.0
+T461,2024-10-31 18:59:19,Security,Medium,4,48,TeamB,,Open,No,
+T306,2024-11-01 02:44:30,Security,Low,8,48,TeamB,,Open,No,
+T269,2024-11-01 21:54:04,Software,Low,1,24,TeamA,2024-11-01 23:54:04,Resolved,Yes,3.0
+T469,2024-11-02 08:14:18,Hardware,High,4,24,TeamA,2024-11-04 03:14:18,Resolved,No,4.0
+T268,2024-11-02 12:03:32,Software,High,9,24,TeamB,,Open,No,
+T322,2024-11-02 23:54:02,Software,Medium,7,48,TeamC,,Escalated,No,
+T484,2024-11-03 11:42:51,Software,High,5,24,TeamB,2024-11-03 20:42:51,Resolved,Yes,3.0
+T368,2024-11-04 07:51:33,Security,Low,9,48,TeamC,,Open,No,
+T463,2024-11-07 13:36:13,Security,High,4,48,TeamC,,Escalated,No,
+T211,2024-11-08 20:42:21,Hardware,Low,9,48,TeamC,2024-11-09 17:42:21,Resolved,No,1.0
+T471,2024-11-10 09:21:19,Security,Medium,2,48,TeamC,2024-11-11 15:21:19,Resolved,No,4.0
+T273,2024-11-12 01:09:36,Network,High,9,48,TeamA,2024-11-12 18:09:36,Resolved,Yes,2.0
+T460,2024-11-12 12:02:14,Hardware,Low,10,24,TeamB,2024-11-14 10:02:14,Resolved,No,1.0
+T174,2024-11-13 06:37:13,Software,Medium,10,48,TeamA,2024-11-13 18:37:13,Resolved,Yes,2.0
+T056,2024-11-14 12:36:49,Security,High,4,48,TeamC,2024-11-15 06:36:49,Resolved,No,1.0
+T391,2024-11-14 14:16:54,Network,Low,1,48,TeamC,,Open,No,
+T079,2024-11-16 02:41:16,Hardware,Medium,4,48,TeamA,,Escalated,No,
+T195,2024-11-17 07:07:34,Hardware,High,4,48,TeamC,,Open,No,
+T294,2024-11-20 04:40:21,Network,Medium,8,48,TeamC,,Escalated,No,
+T192,2024-11-20 16:48:04,Security,High,10,24,TeamB,2024-11-20 19:48:04,Resolved,Yes,1.0
+T072,2024-11-20 16:53:59,Network,Medium,5,48,TeamB,,Escalated,No,
+T078,2024-11-22 00:03:25,Network,Low,10,48,TeamC,2024-11-23 04:03:25,Resolved,No,4.0
+T161,2024-11-22 02:01:21,Network,Low,3,24,TeamC,2024-11-22 16:01:21,Resolved,Yes,2.0
+T068,2024-11-22 08:59:04,Software,High,8,24,TeamA,2024-11-23 19:59:04,Resolved,No,3.0
+T327,2024-11-24 04:58:58,Software,Low,5,24,TeamC,,Escalated,No,
+T267,2024-11-25 08:48:06,Security,Low,4,48,TeamA,2024-11-26 13:48:06,Resolved,No,5.0
+T326,2024-11-27 16:42:06,Network,High,6,48,TeamA,2024-11-28 15:42:06,Resolved,No,2.0
+T124,2024-11-28 05:09:12,Software,Low,10,24,TeamC,2024-11-28 22:09:12,Resolved,No,4.0
+T187,2024-11-28 06:07:38,Network,Low,1,24,TeamB,,Escalated,No,
+T480,2024-11-28 17:02:54,Network,High,7,48,TeamA,2024-11-30 05:02:54,Resolved,Yes,4.0
+T117,2024-11-29 14:04:49,Hardware,High,8,48,TeamB,2024-12-01 12:04:49,Resolved,Yes,5.0
+T476,2024-11-30 04:12:39,Software,Medium,1,24,TeamB,2024-11-30 12:12:39,Resolved,No,4.0
+T455,2024-12-03 13:59:57,Software,Low,9,48,TeamA,,Open,No,
+T140,2024-12-04 14:29:42,Hardware,Low,5,48,TeamB,,Escalated,No,
+T009,2024-12-05 22:58:10,Security,Low,7,48,TeamA,2024-12-07 14:58:10,Resolved,No,1.0
+T096,2024-12-07 01:37:13,Software,Medium,6,24,TeamC,2024-12-08 08:37:13,Resolved,No,4.0
+T427,2024-12-08 03:17:39,Software,High,1,24,TeamA,,Open,No,
+T257,2024-12-08 13:11:24,Network,Low,3,48,TeamA,2024-12-09 08:11:24,Resolved,No,3.0
+T361,2024-12-12 18:05:13,Security,Medium,4,24,TeamA,2024-12-13 05:05:13,Resolved,No,4.0
+T422,2024-12-12 18:48:06,Network,Medium,1,48,TeamA,,Escalated,No,
+T027,2024-12-13 23:58:01,Security,High,4,48,TeamB,,Escalated,No,
+T396,2024-12-14 16:29:16,Network,Medium,3,48,TeamC,2024-12-16 12:29:16,Resolved,No,1.0
+T034,2024-12-15 07:21:26,Network,High,6,24,TeamB,,Escalated,No,
+T451,2024-12-17 22:40:24,Hardware,High,4,24,TeamB,2024-12-18 03:40:24,Resolved,No,3.0
+T384,2024-12-18 08:10:44,Network,Medium,3,48,TeamA,2024-12-19 19:10:44,Resolved,Yes,2.0
+T300,2024-12-18 18:43:19,Security,Medium,8,24,TeamA,2024-12-19 04:43:19,Resolved,No,1.0
+T382,2024-12-20 07:49:35,Hardware,Low,10,48,TeamC,2024-12-22 02:49:35,Resolved,Yes,1.0
+T261,2024-12-20 13:41:18,Security,High,7,48,TeamA,2024-12-21 19:41:18,Resolved,Yes,4.0
+T462,2024-12-21 00:11:57,Security,Medium,1,48,TeamB,2024-12-22 00:11:57,Resolved,No,3.0
+T411,2024-12-21 18:23:44,Security,Medium,8,48,TeamC,,Open,No,
+T214,2024-12-21 23:49:49,Software,Medium,1,24,TeamC,,Open,No,
+T335,2024-12-22 05:10:18,Network,High,7,48,TeamC,,Escalated,No,
+T305,2024-12-22 11:27:33,Security,Low,7,48,TeamB,,Open,No,
+T408,2024-12-24 01:06:18,Security,High,3,48,TeamA,,Escalated,No,
+T209,2024-12-24 22:35:27,Network,High,1,24,TeamC,,Escalated,No,
+T377,2024-12-25 03:28:21,Security,Medium,10,48,TeamB,2024-12-27 00:28:21,Resolved,No,1.0
+T499,2024-12-25 20:39:23,Security,High,1,48,TeamA,2024-12-26 10:39:23,Resolved,Yes,5.0
+T075,2024-12-26 03:23:35,Software,Medium,3,24,TeamA,,Open,No,
+T070,2024-12-26 05:40:13,Hardware,Low,3,48,TeamC,,Escalated,No,
+T287,2024-12-27 12:35:21,Network,Low,6,48,TeamA,2024-12-28 07:35:21,Resolved,No,5.0
+T043,2024-12-29 00:26:15,Network,High,10,48,TeamC,,Escalated,No,
+T249,2024-12-29 08:13:22,Software,Low,4,48,TeamA,,Escalated,No,
+T371,2024-12-30 04:52:14,Software,High,10,48,TeamC,2024-12-31 02:52:14,Resolved,No,2.0
+T295,2024-12-30 07:43:17,Hardware,Low,8,48,TeamC,,Open,No,
+T179,2024-12-30 08:23:38,Security,Medium,5,48,TeamC,,Escalated,No,
+T115,2024-12-31 05:40:45,Network,High,5,48,TeamC,2024-12-31 13:40:45,Resolved,No,5.0
+T170,2024-12-31 18:43:11,Network,Medium,1,24,TeamA,,Escalated,No,
+T130,2025-01-01 17:11:32,Network,Medium,7,24,TeamB,,Escalated,No,
+T205,2025-01-02 05:26:40,Hardware,Low,4,48,TeamB,,Open,No,
+T228,2025-01-02 11:38:57,Software,Medium,6,48,TeamB,2025-01-03 07:38:57,Resolved,Yes,4.0
+T311,2025-01-03 19:46:01,Software,Low,10,48,TeamA,2025-01-03 22:46:01,Resolved,No,4.0
+T450,2025-01-03 22:50:12,Hardware,High,5,24,TeamA,2025-01-05 20:50:12,Resolved,Yes,5.0
+T084,2025-01-05 17:51:58,Hardware,Low,8,48,TeamB,,Escalated,No,
+T360,2025-01-06 02:11:19,Security,Medium,8,48,TeamB,,Escalated,No,
+T063,2025-01-06 06:08:58,Network,Medium,7,24,TeamA,2025-01-06 14:08:58,Resolved,No,3.0
+T121,2025-01-07 07:16:42,Network,High,6,24,TeamB,,Open,No,
+T250,2025-01-07 19:22:33,Hardware,High,4,24,TeamB,,Escalated,No,
+T189,2025-01-08 05:40:11,Network,High,9,48,TeamC,2025-01-08 21:40:11,Resolved,No,3.0
+T402,2025-01-10 07:20:28,Hardware,Low,8,48,TeamB,,Escalated,No,
+T151,2025-01-10 13:51:43,Hardware,Medium,5,48,TeamA,2025-01-12 10:51:43,Resolved,No,2.0
+T041,2025-01-11 01:03:36,Hardware,Low,2,48,TeamC,2025-01-12 06:03:36,Resolved,No,5.0
+T470,2025-01-11 12:06:25,Software,High,6,48,TeamA,,Escalated,No,
+T404,2025-01-12 15:24:10,Network,High,7,24,TeamC,,Escalated,No,
+T424,2025-01-13 04:39:41,Security,Medium,1,24,TeamA,2025-01-14 05:39:41,Resolved,Yes,2.0
+T289,2025-01-13 16:52:57,Security,Medium,2,48,TeamC,,Escalated,No,
+T381,2025-01-13 17:21:26,Software,Medium,10,48,TeamB,,Escalated,No,
+T037,2025-01-16 10:26:56,Network,Medium,3,48,TeamA,2025-01-18 01:26:56,Resolved,No,1.0
+T398,2025-01-17 23:33:16,Software,Low,5,48,TeamC,2025-01-18 15:33:16,Resolved,No,3.0
+T245,2025-01-20 16:45:35,Security,High,10,48,TeamC,2025-01-22 00:45:35,Resolved,Yes,1.0
+T369,2025-01-21 05:57:03,Security,High,10,24,TeamA,2025-01-21 15:57:03,Resolved,Yes,3.0
+T242,2025-01-21 08:01:11,Security,High,6,48,TeamB,2025-01-21 17:01:11,Resolved,Yes,3.0
+T137,2025-01-22 05:39:25,Software,High,10,48,TeamA,2025-01-22 21:39:25,Resolved,Yes,3.0
+T364,2025-01-23 00:32:31,Hardware,Low,4,24,TeamB,2025-01-23 17:32:31,Resolved,No,5.0
+T454,2025-01-23 02:28:38,Software,Medium,5,48,TeamB,2025-01-25 01:28:38,Resolved,No,4.0
+T468,2025-01-23 10:25:27,Network,Medium,2,48,TeamC,2025-01-23 11:25:27,Resolved,No,2.0
+T183,2025-01-23 12:47:14,Software,High,7,48,TeamB,2025-01-23 22:47:14,Resolved,No,1.0
+T315,2025-01-24 11:35:51,Security,Medium,5,48,TeamB,2025-01-26 08:35:51,Resolved,No,1.0
+T292,2025-01-24 18:05:59,Security,High,2,48,TeamB,2025-01-26 14:05:59,Resolved,No,1.0
+T229,2025-01-25 01:43:53,Security,Medium,3,48,TeamC,2025-01-26 17:43:53,Resolved,No,5.0
+T252,2025-01-25 04:53:50,Software,High,5,48,TeamC,,Open,No,
+T175,2025-01-25 05:49:42,Network,Medium,2,48,TeamB,,Open,No,
+T428,2025-01-29 15:22:04,Security,Medium,4,48,TeamA,,Open,No,
+T440,2025-01-30 12:02:05,Hardware,Low,4,24,TeamC,2025-01-31 15:02:05,Resolved,No,1.0
+T185,2025-02-02 07:43:54,Software,Medium,10,48,TeamB,,Escalated,No,
+T284,2025-02-02 19:25:40,Network,High,1,48,TeamB,2025-02-04 19:25:40,Resolved,No,3.0
+T085,2025-02-03 02:25:07,Network,Low,7,48,TeamA,2025-02-04 19:25:07,Resolved,No,5.0
+T443,2025-02-03 04:12:20,Hardware,Medium,1,24,TeamC,2025-02-05 00:12:20,Resolved,No,1.0
+T445,2025-02-03 12:41:36,Network,Medium,2,24,TeamA,2025-02-04 17:41:36,Resolved,No,2.0
+T263,2025-02-06 14:14:04,Network,Low,6,24,TeamA,,Escalated,No,
+T329,2025-02-07 16:27:22,Software,High,10,48,TeamA,2025-02-07 17:27:22,Resolved,No,2.0
+T036,2025-02-08 08:54:22,Software,Low,5,24,TeamA,,Escalated,No,
+T270,2025-02-10 08:22:56,Software,High,9,48,TeamC,2025-02-10 11:22:56,Resolved,No,1.0
+T157,2025-02-12 00:12:00,Software,Low,4,48,TeamC,2025-02-12 18:12:00,Resolved,No,4.0
+T062,2025-02-12 09:31:20,Network,Low,6,24,TeamA,2025-02-13 10:31:20,Resolved,No,4.0
+T467,2025-02-13 01:30:18,Network,Low,8,24,TeamA,2025-02-14 06:30:18,Resolved,No,4.0
+T201,2025-02-13 05:06:10,Hardware,High,1,48,TeamC,2025-02-14 04:06:10,Resolved,No,5.0
+T097,2025-02-13 16:36:00,Security,High,3,24,TeamC,,Escalated,No,
+T376,2025-02-13 18:15:33,Network,Low,6,48,TeamB,2025-02-13 20:15:33,Resolved,No,3.0
+T400,2025-02-14 07:08:06,Hardware,High,4,24,TeamB,2025-02-16 05:08:06,Resolved,Yes,4.0
+T465,2025-02-14 08:25:29,Software,Medium,9,48,TeamA,2025-02-15 22:25:29,Resolved,No,5.0
+T254,2025-02-14 16:42:53,Software,High,7,48,TeamA,,Escalated,No,
+T366,2025-02-15 01:43:16,Network,Medium,9,48,TeamC,2025-02-16 09:43:16,Resolved,No,3.0
+T317,2025-02-15 07:51:45,Software,Low,4,24,TeamA,,Open,No,
+T107,2025-02-16 01:57:01,Software,High,10,48,TeamA,,Open,No,
+T142,2025-02-18 05:54:06,Network,Medium,10,48,TeamC,,Open,No,
+T275,2025-02-18 11:35:19,Network,Low,7,48,TeamC,2025-02-20 01:35:19,Resolved,No,4.0
+T188,2025-02-19 06:26:41,Security,High,3,48,TeamA,2025-02-20 12:26:41,Resolved,No,1.0
+T426,2025-02-20 11:22:04,Network,High,8,48,TeamB,,Open,No,
+T390,2025-02-20 20:11:26,Security,Low,7,24,TeamA,2025-02-22 13:11:26,Resolved,No,1.0
+T246,2025-02-21 22:10:25,Software,High,3,48,TeamC,,Escalated,No,
+T258,2025-02-22 19:37:23,Network,Medium,8,24,TeamC,2025-02-24 13:37:23,Resolved,No,3.0
+T166,2025-02-23 19:03:03,Hardware,Low,7,48,TeamA,2025-02-24 13:03:03,Resolved,No,2.0
+T042,2025-02-23 23:05:21,Hardware,Medium,5,48,TeamA,2025-02-25 19:05:21,Resolved,Yes,2.0
+T227,2025-02-25 01:00:35,Security,High,7,48,TeamA,2025-02-26 05:00:35,Resolved,No,4.0
+T314,2025-02-25 01:35:41,Security,High,1,48,TeamC,,Escalated,No,
+T259,2025-02-25 17:30:29,Network,High,10,24,TeamC,,Open,No,
+T010,2025-02-26 11:10:45,Software,High,3,48,TeamB,,Escalated,No,
+T196,2025-02-27 15:57:20,Software,Medium,10,24,TeamC,2025-02-28 03:57:20,Resolved,No,4.0
+T126,2025-03-01 04:23:32,Network,Low,2,48,TeamC,2025-03-02 00:23:32,Resolved,No,1.0
+T265,2025-03-01 15:58:21,Network,Medium,9,48,TeamC,2025-03-02 12:58:21,Resolved,No,1.0
+T438,2025-03-02 10:39:17,Software,High,6,48,TeamC,,Escalated,No,
+T127,2025-03-03 00:05:54,Network,Low,1,24,TeamA,2025-03-04 01:05:54,Resolved,Yes,5.0
+T095,2025-03-06 21:37:43,Software,Low,6,48,TeamC,2025-03-08 12:37:43,Resolved,No,2.0
+T492,2025-03-07 09:01:22,Software,Low,1,48,TeamB,,Escalated,No,
+T489,2025-03-09 02:16:47,Hardware,Low,6,48,TeamB,,Open,No,
+T486,2025-03-09 05:59:00,Security,Medium,2,48,TeamB,2025-03-11 02:59:00,Resolved,No,1.0
+T332,2025-03-09 11:55:40,Software,Medium,7,48,TeamA,2025-03-09 18:55:40,Resolved,Yes,1.0
+T353,2025-03-09 13:37:21,Hardware,Low,4,48,TeamB,2025-03-10 09:37:21,Resolved,Yes,5.0
+T432,2025-03-09 19:51:12,Network,Medium,8,24,TeamB,,Open,No,
+T431,2025-03-10 15:51:35,Network,Low,8,48,TeamB,,Open,No,
+T230,2025-03-11 06:58:18,Security,Medium,9,48,TeamA,,Open,No,
+T077,2025-03-11 12:23:56,Software,High,7,48,TeamB,,Open,No,
+T442,2025-03-11 14:37:24,Software,High,7,24,TeamA,2025-03-12 23:37:24,Resolved,No,1.0
+T208,2025-03-12 05:57:34,Security,Medium,8,24,TeamA,2025-03-13 12:57:34,Resolved,No,2.0
+T323,2025-03-13 18:01:18,Software,High,6,48,TeamA,2025-03-15 11:01:18,Resolved,No,2.0
+T482,2025-03-14 18:27:01,Hardware,Low,1,48,TeamC,,Escalated,No,
+T318,2025-03-16 09:10:45,Software,High,6,24,TeamC,,Escalated,No,
+T393,2025-03-18 13:57:52,Security,Medium,4,48,TeamB,,Escalated,No,
+T210,2025-03-19 00:27:59,Network,High,9,48,TeamB,2025-03-19 23:27:59,Resolved,No,1.0
+T247,2025-03-19 13:02:41,Software,High,3,24,TeamC,,Escalated,No,
+T441,2025-03-20 03:13:37,Hardware,Low,8,24,TeamB,2025-03-21 11:13:37,Resolved,No,4.0
+T143,2025-03-20 07:04:38,Software,High,6,48,TeamB,,Escalated,No,
+T310,2025-03-20 20:10:58,Software,High,6,24,TeamC,2025-03-22 02:10:58,Resolved,No,3.0
+T035,2025-03-21 00:32:56,Security,High,3,48,TeamA,2025-03-23 00:32:56,Resolved,No,5.0
+T296,2025-03-23 18:04:59,Security,Low,4,48,TeamB,2025-03-24 11:04:59,Resolved,Yes,5.0
+T483,2025-03-24 01:17:26,Security,Low,2,48,TeamC,,Open,No,
+T394,2025-03-26 09:31:53,Software,Medium,2,24,TeamA,2025-03-27 07:31:53,Resolved,No,2.0
+T108,2025-03-27 21:33:02,Network,High,8,24,TeamC,2025-03-28 15:33:02,Resolved,No,2.0
+T221,2025-03-28 11:13:59,Security,Medium,7,48,TeamB,,Open,No,
+T058,2025-03-28 15:28:23,Hardware,Medium,10,24,TeamA,2025-03-29 18:28:23,Resolved,Yes,1.0
+T500,2025-03-28 22:57:38,Network,Low,10,24,TeamA,,Escalated,No,
+T014,2025-03-30 23:00:58,Hardware,Medium,2,24,TeamC,2025-03-31 17:00:58,Resolved,No,5.0
